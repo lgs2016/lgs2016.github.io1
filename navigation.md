@@ -4,4 +4,6 @@
 [工作](work.md)
 [资源](re.md)
 
-[gimmick:themechooser](主题)
+
+[gimmick:themechooser](Choose theme)
+
