@@ -5,5 +5,5 @@
 - 条目2
 
 -[MDwiki安装与配置][mxyz.tech/180112001.md]
-
+This is an [example link](http://example.com/).
 具体介绍
